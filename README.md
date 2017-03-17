@@ -1,2 +1,2 @@
 # stackoverflowfiles
-files related to posts on stakoverflows
+files related to posts on stakoverflow.
